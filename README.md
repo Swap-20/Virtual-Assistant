@@ -24,8 +24,3 @@ Welcome to our virtual assistant project! This virtual assistant is a Python-bas
 1. Run the virtual assistant:
 
 2. Speak commands to the virtual assistant using your microphone.
-
-# Contributing
-
-Contributions are welcome! If you'd like to contribute to this project
-
